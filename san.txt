@@ -1,0 +1,20 @@
+g Volume in drive D is New Volume
+ Volume Serial Number is 145A-DEC5
+
+ Directory of D:\JAVA_PROJECT
+
+28-12-2020  11:22    <DIR>          .
+28-12-2020  11:22    <DIR>          ..
+28-12-2020  11:22                 0 san.txt
+26-12-2020  12:25               678 Santosh.class
+26-12-2020  12:11               149 Santosh.java
+               3 File(s)            827 bytes
+               2 Dir(s)  53,133,479,936 bytes free
+
+
+
+tretretret
+tretretre
+tr4etret
+tretret
+tretret
